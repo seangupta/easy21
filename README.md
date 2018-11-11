@@ -1,1 +1,1 @@
-# easy21
+UCL Reinforcement Learning coursework 2015
